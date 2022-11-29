@@ -11,8 +11,8 @@
 ### Links and Resources
 
 - [CI/CD](https://github.com/dustinapodaca/basic-express-server/actions) (GitHub Actions)
-- [Prod Deployment](https://server-deployment-practice-prod.onrender.com)
-- [Dev Deployment](https://server-deployment-practice-dev-08kn.onrender.com)
+- [Prod Deployment](https://basic-express-server-prod.onrender.com)
+- [Dev Deployment](https://basic-express-server-4wjg.onrender.com)
 
 ### Setup
 
